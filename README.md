@@ -27,7 +27,7 @@
 * Module quizzes
 * Additional course resources
 
-## <mark style="color:$primary;">**Pre-requisites**</mark>
+## <mark style="color:$primary;">Pre-requisites</mark>
 
 * **Networking Fundamentals**
   * TCP/IP, OSI Model
@@ -41,7 +41,7 @@
   * CIA, hashing, security controls
   * Basic security appliances (ie: firewalls, proxies, VPNs)
 
-## <mark style="color:$primary;">**System Requirements**</mark>
+## <mark style="color:$primary;">System Requirements</mark>
 
 * **Virtual Machines**
   * Windows
